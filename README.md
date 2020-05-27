@@ -1,4 +1,4 @@
-# Stanford
+# Stanford University - Computer Sience 106A
 Stanford - Code in Place spring 2020 CS106A
 
 Image Puzzle Game
