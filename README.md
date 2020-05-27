@@ -16,6 +16,7 @@ The user uploads his/her image, shuffles it, and then puts the pieces back in th
 
 **Brainstorming on features to add:**
 
+- add preview image
 - add a timer and a high score page;
 - add information about the image or the artist; 
 - advanced version where only certain moves are available - like you can only swap two tiles that are currently touching;
